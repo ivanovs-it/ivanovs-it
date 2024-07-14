@@ -49,7 +49,7 @@ Also interested in **networks** and the **Python** programming language.
   **2021**
   * **Deploying a new OpenStack distribution using the [Kayobe](https://github.com/openstack/kayobe) project.**  
     Customer: Public cloud provider.  
-    *Stack: openstack, git, ansible, docker, prometheus, victoriametrics,*
+    *Stack: openstack, git, ansible, docker, prometheus, victoriametrics*
     <details><summary>Details</summary>
     The project aimed to replace the existing cloud with a new one that meets scalability, maintainability, and update criteria.<br>
     To meet business requirements, it was decided to use the <a href="https://github.com/openstack/kayobe">Kayobe</a> project, which includes <a href="https://github.com/openstack/bifrost">Bifrost</a> + <a href="https://github.com/openstack/kolla-ansible">Kolla-ansible</a>.<br>
