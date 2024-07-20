@@ -3,7 +3,7 @@
 Nice to meet you, my name is Sergei Ivanov 👋 
 
 ### About me:
-I'm an **OpenStack Engineer** with 6+ years deploying, maintaining, and troubleshooting in private and public clouds. IT professional with 17+ years, specializing in Linux administration for over a decade. Managed diverse cloud projects using tools like kolla-ansible, openstack-ansible, kayobe, etc.
+I'm an **OpenStack Engineer** with over 6 years of experience in deploying, maintaining, and troubleshooting in private and public clouds. IT professional with 17+ years, specializing in Linux administration for more than a decade. Managed diverse cloud projects using tools like kolla-ansible, openstack-ansible, kayobe, etc.
 
 Also interested in **networks** and the **Python** programming language.
 
