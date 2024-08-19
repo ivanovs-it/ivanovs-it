@@ -37,7 +37,7 @@ Also interested in **networks** and the **Python** programming language.
   </details>
 
   **2019**
-  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**
+  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**  
   Customer: One of the largest CDN providers in Europe.  
   *Stack: openstack, git, ansible, jenkins, diskimage-builder*
     <details><summary>Details</summary>
