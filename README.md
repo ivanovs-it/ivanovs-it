@@ -1,33 +1,32 @@
 ## Hello!
-
-Nice to meet you, my name is Sergei Ivanov 👋 
+Nice to meet you! My name is Sergei Ivanov 👋
 
 ### About me:
-I'm an **OpenStack Engineer** with over 6 years of experience in deploying, maintaining, and troubleshooting in private and public clouds. IT professional with 17+ years, specializing in Linux administration for more than a decade. Managed diverse cloud projects using tools like kolla-ansible, openstack-ansible, kayobe, etc.
-
-Also interested in **networks** and the **Python** programming language.
+I'm an **OpenStack Site Reliability Engineer** with 7+ years deploying, maintaining, monitoring and troubleshooting in private and public clouds. IT professional with 17+ years, specializing in Linux administration for over a decade. Managed diverse cloud projects using tools like kolla-ansible, openstack-ansible, kayobe, etc.
 
 ### Contacts:
 <div id="socials" align="center"><a href="https://www.linkedin.com/in/ivanov-sergei/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ivanovs.it@gmail.com"><img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-### Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg" height="75" width="75" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain.svg" height="75" width="75" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="75" width="75" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="75" width="75" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="75" width="75" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="75" width="75" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="75" width="75" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="75" width="75"/>&nbsp;
+### Skills
+* **OpenStack** (7 years) - Advanced
+* **Linux** (12 years) - Expert
+* **Ansible** (7 years) - Advanced
+* **Bash** (10 years) - Expert
+* **Terraform** (2 years) - Intermediate
+* **Python** (6 years) - Advanced
+* **Prometheus** (4 years) - Intermediate
+* **Docker** (5 years) - Advanced
+* **GitLab CI** (2 years) - Intermediate
+* **Kubernetes** (1 year) - Beginner
     
 ### Projects:
 ---
 * **2018**
   * **Deploying OpenStack version Queens in a closed-network circuit.**    
   Customer: One of the largest fintech companies in Russia.  
-  *Stack: foreman, git, ansible, openstack, gitlab-ci*
+  *Stack: openstack, ansible, foreman, git, gitlab-ci*
     <details><summary>Details</summary>
     Project involved preparing an all-in-one image for deploying private clouds in a closed environment.<br>
     The image included all necessary components such as OS packages, Python packages, and Ansible playbooks.<br>
@@ -37,7 +36,7 @@ Also interested in **networks** and the **Python** programming language.
   </details>
 
   **2019**
-  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**  
+  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**
   Customer: One of the largest CDN providers in Europe.  
   *Stack: openstack, git, ansible, jenkins, diskimage-builder*
     <details><summary>Details</summary>
