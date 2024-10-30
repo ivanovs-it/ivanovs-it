@@ -2,7 +2,7 @@
 Nice to meet you! My name is Sergei Ivanov 👋
 
 ### About me:
-I'm an **OpenStack Site Reliability Engineer** with 7+ years deploying, maintaining, monitoring and troubleshooting in private and public clouds. IT professional with 17+ years, specializing in Linux administration for over a decade. Managed diverse cloud projects using tools like kolla-ansible, openstack-ansible, kayobe, etc.
+I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintaining, monitoring and troubleshooting in private and public clouds. IT professional with 17+ years, specializing in Linux administration for over a decade. Managed diverse cloud projects using tools like kolla-ansible, openstack-ansible, kayobe, etc.
 
 ### Contacts:
 <div id="socials" align="center"><a href="https://www.linkedin.com/in/ivanov-sergei/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
