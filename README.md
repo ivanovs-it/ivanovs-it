@@ -24,7 +24,7 @@ I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintain
 ### Projects:
 ---
 * **2018**
-  * **Deploying OpenStack version Queens in a closed-network circuit.**    
+  * **Deploying OpenStack version Queens in a closed-network circuit.**  
   Customer: One of the largest fintech companies in Russia.  
   *Stack: openstack, ansible, foreman, git, gitlab-ci*
     <details><summary>Details</summary>
@@ -36,7 +36,7 @@ I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintain
   </details>
 
   **2019**
-  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**
+  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**  
   Customer: One of the largest CDN providers in Europe.  
   *Stack: openstack, git, ansible, jenkins, diskimage-builder*
     <details><summary>Details</summary>
