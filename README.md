@@ -1,10 +1,10 @@
 ## Hello!
 Nice to meet you! My name is Sergei Ivanov 👋
 
-### About me:
+### About me
 I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintaining, monitoring and troubleshooting in private and public clouds. IT professional with 17+ years, specializing in Linux administration for over a decade. Managed diverse cloud projects using tools like kolla-ansible, openstack-ansible, kayobe, etc.
 
-### Contacts:
+### Contacts
 <div id="socials" align="center"><a href="https://www.linkedin.com/in/ivanov-sergei/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ivanovs.it@gmail.com"><img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
@@ -21,10 +21,10 @@ I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintain
 * **GitLab CI** (2 years) - Intermediate
 * **Kubernetes** (1 year) - Beginner
     
-### Projects:
+### Projects
 ---
 * **2018**
-  * **Deploying OpenStack version Queens in a closed-network circuit.**  
+  * **Deploying OpenStack version Queens in a closed-network circuit.**    
   Customer: One of the largest fintech companies in Russia.  
   *Stack: openstack, ansible, foreman, git, gitlab-ci*
     <details><summary>Details</summary>
@@ -35,8 +35,8 @@ I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintain
     Preparing documentation for the Operations team on deploying a private cloud.
   </details>
 
-  **2019**
-  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**  
+* **2019**
+  * **Deploying a service region for bare metal deployment using the OpenStack Ironic project.**
   Customer: One of the largest CDN providers in Europe.  
   *Stack: openstack, git, ansible, jenkins, diskimage-builder*
     <details><summary>Details</summary>
@@ -45,7 +45,7 @@ I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintain
     Setting up a CI/CD pipelines for Jenkins.
     </details>
 
-  **2021**
+* **2021**
   * **Deploying a new OpenStack distribution using the [Kayobe](https://github.com/openstack/kayobe) project.**  
     Customer: Public cloud provider.  
     *Stack: openstack, git, ansible, docker, prometheus, victoriametrics*
@@ -60,3 +60,8 @@ I'm an **OpenStack Site Reliability Engineer** with 6+ years deploying, maintain
     Performance thresholds were evaluated using Rally.<br>  
     My role in the project involved developing configurations for Kayobe, testing hypotheses, and cloud testing.
     </details>
+---
+### Researches
+Various research projects, lab environments, proof-of-concepts, and notes.    
+* [openstack-helm](https://github.com/ivanovs-it/openstack-helm) repository  
+  *How to install Openstack using OpenStack-Helm project in lab environment.*
